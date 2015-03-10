@@ -1,1 +1,1 @@
-# docker-nginx-proxy
+See https://github.com/jwilder/nginx-proxy
